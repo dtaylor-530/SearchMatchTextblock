@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextCompare.WPF", "TextCompare.WPF\TextCompare.WPF.csproj", "{3D58BA66-8849-4487-A100-D0217E35C0A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextCompare.WPF.Demo", "TextCompare.WPF.Demo\TextCompare.WPF.Demo.csproj", "{624F2985-BC05-43A0-B0E0-FE3EB6F949FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{F1E84E31-0887-411E-961B-750643695181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D58BA66-8849-4487-A100-D0217E35C0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D58BA66-8849-4487-A100-D0217E35C0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D58BA66-8849-4487-A100-D0217E35C0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D58BA66-8849-4487-A100-D0217E35C0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624F2985-BC05-43A0-B0E0-FE3EB6F949FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624F2985-BC05-43A0-B0E0-FE3EB6F949FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624F2985-BC05-43A0-B0E0-FE3EB6F949FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624F2985-BC05-43A0-B0E0-FE3EB6F949FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{624F2985-BC05-43A0-B0E0-FE3EB6F949FC} = {F1E84E31-0887-411E-961B-750643695181}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8993F1E-8C60-4782-AB8A-F1E6EF3BB620}
+	EndGlobalSection
+EndGlobal
